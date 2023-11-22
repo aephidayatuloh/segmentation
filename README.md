@@ -1,2 +1,2 @@
 # Customer Segmentation 
-Code and data source for customer segmentation (cluster analysis) workshop by StarCore Academy of Data Science (SCADS) 2023.
+Code and data source for Applied Data Science for Customer Segmentation in CRM workshop by StarCore Academy of Data Science (SCADS) 2023.
